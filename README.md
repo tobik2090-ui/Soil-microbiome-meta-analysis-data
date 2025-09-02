@@ -60,14 +60,15 @@ Folder: `code/`
 ---
 
 ## 7. External Raw Data
-- **16S rRNA** and **ITS amplicon data** are available in NCBI SRA/ENA (see manuscript for accession IDs).  
-Raw reads are not hosted here due to repository size but can be accessed via the provided accession numbers.
+- The 16S rRNA gene amplicon data were retrieved from the NCBI SRA and GSA repositories, and can be accessed using the accession IDs included in the download scripts (download_all.sh, gsa_download.sh) provided in the repository.
+The Fungal ITS amplicon data were also obtained from the NCBI SRA and GSA repositories, with accession IDs available in the same download scripts.
 
 ---
 
 ### Notes
 - All `.R` scripts are reproducible with R ≥ 4.1 and packages: `phyloseq`, `vegan`, `metafor`, `DESeq2`, `ggplot2`.  
-- PICRUSt2 was run with version X.X (update with your version).  
+- PICRUSt2 was run with version v2.6.2
 - Please refer to the manuscript for methodological details.
 
 ---
+
