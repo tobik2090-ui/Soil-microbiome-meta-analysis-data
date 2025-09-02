@@ -1,0 +1,343 @@
+""	Project	Run_accession	Treatment	Author	Fungicide_type	Duration	Dose
+SRR23032128	P1	SRR23032128	Treated	Vasilchenko et al. 2027	Triazole + QoI-Strobilurin	60	0.36
+SRR23032129	P1	SRR23032129	Treated	Vasilchenko et al. 2024	Triazole + QoI-Strobilurin	60	0.36
+SRR23032130	P1	SRR23032130	Treated	Vasilchenko et al. 2028	Triazole + QoI-Strobilurin	60	0.36
+SRR23032131	P1	SRR23032131	Control	Vasilchenko et al. 2025	Triazole + QoI-Strobilurin	60	0.36
+SRR23032132	P1	SRR23032132	Control	Vasilchenko et al. 2026	Triazole + QoI-Strobilurin	60	0.36
+SRR23032133	P1	SRR23032133	Control	Vasilchenko et al. 2023	Triazole + QoI-Strobilurin	60	0.36
+SRR18767303	P2	SRR18767303	Control	Wang et al., 2030	Thiadiazole	19	7.7
+SRR18767304	P2	SRR18767304	Control	Wang et al., 2029	Thiadiazole	19	7.7
+SRR18767306	P2	SRR18767306	Control	Wang et al., 2028	Thiadiazole	19	7.7
+SRR18767307	P2	SRR18767307	Control	Wang et al., 2027	Thiadiazole	19	7.7
+SRR18767308	P2	SRR18767308	Control	Wang et al., 2026	Thiadiazole	19	7.7
+SRR18767309	P2	SRR18767309	Control	Wang et al., 2025	Thiadiazole	19	7.7
+SRR18767310	P2	SRR18767310	Control	Wang et al., 2024	Thiadiazole	19	7.7
+SRR18767311	P2	SRR18767311	Control	Wang et al., 2023	Thiadiazole	19	7.7
+SRR18767312	P2	SRR18767312	Treated	Wang et al., 2050	Thiadiazole	19	7.7
+SRR18767366	P2	SRR18767366	Control	Wang et al., 2038	Thiadiazole	19	7.7
+SRR18767367	P2	SRR18767367	Control	Wang et al., 2037	Thiadiazole	19	7.7
+SRR18767369	P2	SRR18767369	Control	Wang et al., 2036	Thiadiazole	19	7.7
+SRR18767370	P2	SRR18767370	Control	Wang et al., 2035	Thiadiazole	19	7.7
+SRR18767371	P2	SRR18767371	Control	Wang et al., 2034	Thiadiazole	19	7.7
+SRR18767372	P2	SRR18767372	Control	Wang et al., 2033	Thiadiazole	19	7.7
+SRR18767373	P2	SRR18767373	Control	Wang et al., 2032	Thiadiazole	19	7.7
+SRR18767374	P2	SRR18767374	Control	Wang et al., 2031	Thiadiazole	19	7.7
+SRR18767375	P2	SRR18767375	Treated	Wang et al., 2054	Thiadiazole	19	7.7
+SRR18767376	P2	SRR18767376	Treated	Wang et al., 2046	Thiadiazole	19	7.7
+SRR18767377	P2	SRR18767377	Treated	Wang et al., 2053	Thiadiazole	19	7.7
+SRR18767378	P2	SRR18767378	Treated	Wang et al., 2045	Thiadiazole	19	7.7
+SRR18767381	P2	SRR18767381	Treated	Wang et al., 2052	Thiadiazole	19	7.7
+SRR18767382	P2	SRR18767382	Treated	Wang et al., 2044	Thiadiazole	19	7.7
+SRR18767383	P2	SRR18767383	Treated	Wang et al., 2051	Thiadiazole	19	7.7
+SRR18767384	P2	SRR18767384	Treated	Wang et al., 2043	Thiadiazole	19	7.7
+SRR18767409	P2	SRR18767409	Treated	Wang et al., 2042	Thiadiazole	19	7.7
+SRR18767410	P2	SRR18767410	Treated	Wang et al., 2049	Thiadiazole	19	7.7
+SRR18767411	P2	SRR18767411	Treated	Wang et al., 2041	Thiadiazole	19	7.7
+SRR18767413	P2	SRR18767413	Treated	Wang et al., 2048	Thiadiazole	19	7.7
+SRR18767414	P2	SRR18767414	Treated	Wang et al., 2040	Thiadiazole	19	7.7
+SRR18767415	P2	SRR18767415	Treated	Wang et al., 2047	Thiadiazole	19	7.7
+SRR18767416	P2	SRR18767416	Treated	Wang et al., 2039	Thiadiazole	19	7.7
+SRR14242009	P3	SRR14242009	Treated	Ezazi et al., 2048	Benzimidazole + Dicarboximide	45	2
+SRR14242010	P3	SRR14242010	Control	Ezazi et al., 2033	Benzimidazole + Dicarboximide	45	2
+SRR14242011	P3	SRR14242011	Control	Ezazi et al., 2021	Benzimidazole + Dicarboximide	45	2
+SRR14242012	P3	SRR14242012	Control	Ezazi et al., 2034	Benzimidazole + Dicarboximide	45	2
+SRR14242013	P3	SRR14242013	Control	Ezazi et al., 2049	Benzimidazole + Dicarboximide	45	2
+SRR14242014	P3	SRR14242014	Control	Ezazi et al., 2035	Benzimidazole + Dicarboximide	45	2
+SRR14242021	P3	SRR14242021	Control	Ezazi et al., 2036	Benzimidazole + Dicarboximide	45	2
+SRR14242032	P3	SRR14242032	Control	Ezazi et al., 2022	Benzimidazole + Dicarboximide	45	2
+SRR14242035	P3	SRR14242035	Treated	Ezazi et al., 2023	Benzimidazole + Dicarboximide	45	2
+SRR14242036	P3	SRR14242036	Treated	Ezazi et al., 2050	Benzimidazole + Dicarboximide	45	2
+SRR14242037	P3	SRR14242037	Treated	Ezazi et al., 2051	Benzimidazole + Dicarboximide	45	2
+SRR14242038	P3	SRR14242038	Treated	Ezazi et al., 2024	Benzimidazole + Dicarboximide	45	2
+SRR14242039	P3	SRR14242039	Treated	Ezazi et al., 2025	Benzimidazole + Dicarboximide	45	2
+SRR14242040	P3	SRR14242040	Treated	Ezazi et al., 2052	Benzimidazole + Dicarboximide	45	2
+SRR14242041	P3	SRR14242041	Treated	Ezazi et al., 2053	Benzimidazole + Dicarboximide	45	2
+SRR14242042	P3	SRR14242042	Treated	Ezazi et al., 2037	Benzimidazole + Dicarboximide	45	2
+SRR14242043	P3	SRR14242043	Control	Ezazi et al., 2038	Benzimidazole + Dicarboximide	45	2
+SRR14242044	P3	SRR14242044	Control	Ezazi et al., 2026	Benzimidazole + Dicarboximide	45	2
+SRR14244391	P3	SRR14244391	Treated	Ezazi et al., 2039	Benzimidazole + Dicarboximide	45	2
+SRR14244392	P3	SRR14244392	Control	Ezazi et al., 2040	Benzimidazole + Dicarboximide	45	2
+SRR14244393	P3	SRR14244393	Control	Ezazi et al., 2041	Benzimidazole + Dicarboximide	45	2
+SRR14244394	P3	SRR14244394	Control	Ezazi et al., 2042	Benzimidazole + Dicarboximide	45	2
+SRR14244395	P3	SRR14244395	Control	Ezazi et al., 2027	Benzimidazole + Dicarboximide	45	2
+SRR14244396	P3	SRR14244396	Control	Ezazi et al., 2054	Benzimidazole + Dicarboximide	45	2
+SRR14244403	P3	SRR14244403	Control	Ezazi et al., 2028	Benzimidazole + Dicarboximide	45	2
+SRR14244414	P3	SRR14244414	Control	Ezazi et al., 2043	Benzimidazole + Dicarboximide	45	2
+SRR14244417	P3	SRR14244417	Treated	Ezazi et al., 2055	Benzimidazole + Dicarboximide	45	2
+SRR14244419	P3	SRR14244419	Treated	Ezazi et al., 2030	Benzimidazole + Dicarboximide	45	2
+SRR14244420	P3	SRR14244420	Treated	Ezazi et al., 2044	Benzimidazole + Dicarboximide	45	2
+SRR14244421	P3	SRR14244421	Treated	Ezazi et al., 2045	Benzimidazole + Dicarboximide	45	2
+SRR14244423	P3	SRR14244423	Treated	Ezazi et al., 2046	Benzimidazole + Dicarboximide	45	2
+SRR14244424	P3	SRR14244424	Treated	Ezazi et al., 2032	Benzimidazole + Dicarboximide	45	2
+SRR14244425	P3	SRR14244425	Control	Ezazi et al., 2056	Benzimidazole + Dicarboximide	45	2
+SRR14244426	P3	SRR14244426	Control	Ezazi et al., 2047	Benzimidazole + Dicarboximide	45	2
+SRR22014440	P4	SRR22014440	Treated	Sim et al., 2103	Triazole	45	2
+SRR22014441	P4	SRR22014441	Treated	Sim et al., 2118	Triazole	45	2
+SRR22014442	P4	SRR22014442	Treated	Sim et al., 2111	Triazole	45	2
+SRR22014443	P4	SRR22014443	Control	Sim et al., 2073	Triazole	45	2
+SRR22014444	P4	SRR22014444	Control	Sim et al., 2088	Triazole	45	2
+SRR22014445	P4	SRR22014445	Control	Sim et al., 2081	Triazole	45	2
+SRR22014446	P4	SRR22014446	Control	Sim et al., 2049	Triazole	45	2
+SRR22014447	P4	SRR22014447	Control	Sim et al., 2064	Triazole	45	2
+SRR22014449	P4	SRR22014449	Control	Sim et al., 2057	Triazole	45	2
+SRR22014450	P4	SRR22014450	Control	Sim et al., 2025	Triazole	45	2
+SRR22014451	P4	SRR22014451	Control	Sim et al., 2040	Triazole	45	2
+SRR22014452	P4	SRR22014452	Control	Sim et al., 2033	Triazole	45	2
+SRR22014463	P4	SRR22014463	Control	Sim et al., 2059	Triazole	45	2
+SRR22014464	P4	SRR22014464	Control	Sim et al., 2061	Triazole	45	2
+SRR22014465	P4	SRR22014465	Control	Sim et al., 2026	Triazole	45	2
+SRR22014466	P4	SRR22014466	Control	Sim et al., 2035	Triazole	45	2
+SRR22014467	P4	SRR22014467	Control	Sim et al., 2037	Triazole	45	2
+SRR22014478	P4	SRR22014478	Treated	Sim et al., 2251	Triazole	45	2
+SRR22014480	P4	SRR22014480	Treated	Sim et al., 2247	Triazole	45	2
+SRR22014481	P4	SRR22014481	Treated	Sim et al., 2240	Triazole	45	2
+SRR22014482	P4	SRR22014482	Treated	Sim et al., 2225	Triazole	45	2
+SRR22014483	P4	SRR22014483	Treated	Sim et al., 2221	Triazole	45	2
+SRR22014484	P4	SRR22014484	Treated	Sim et al., 2214	Triazole	45	2
+SRR22014485	P4	SRR22014485	Treated	Sim et al., 2199	Triazole	45	2
+SRR22014486	P4	SRR22014486	Treated	Sim et al., 2195	Triazole	45	2
+SRR22014487	P4	SRR22014487	Treated	Sim et al., 2188	Triazole	45	2
+SRR22014488	P4	SRR22014488	Treated	Sim et al., 2173	Triazole	45	2
+SRR22014489	P4	SRR22014489	Treated	Sim et al., 2169	Triazole	45	2
+SRR22014492	P4	SRR22014492	Treated	Sim et al., 2162	Triazole	45	2
+SRR22014493	P4	SRR22014493	Treated	Sim et al., 2147	Triazole	45	2
+SRR22014494	P4	SRR22014494	Treated	Sim et al., 2143	Triazole	45	2
+SRR22014495	P4	SRR22014495	Treated	Sim et al., 2136	Triazole	45	2
+SRR22014496	P4	SRR22014496	Treated	Sim et al., 2121	Triazole	45	2
+SRR22014497	P4	SRR22014497	Treated	Sim et al., 2117	Triazole	45	2
+SRR22014498	P4	SRR22014498	Treated	Sim et al., 2110	Triazole	45	2
+SRR22014499	P4	SRR22014499	Control	Sim et al., 2091	Triazole	45	2
+SRR22014500	P4	SRR22014500	Control	Sim et al., 2087	Triazole	45	2
+SRR22014501	P4	SRR22014501	Control	Sim et al., 2080	Triazole	45	2
+SRR22014504	P4	SRR22014504	Control	Sim et al., 2063	Triazole	45	2
+SRR22014505	P4	SRR22014505	Control	Sim et al., 2056	Triazole	45	2
+SRR22014506	P4	SRR22014506	Control	Sim et al., 2043	Triazole	45	2
+SRR22014507	P4	SRR22014507	Control	Sim et al., 2039	Triazole	45	2
+SRR22014508	P4	SRR22014508	Control	Sim et al., 2032	Triazole	45	2
+SRR22014511	P4	SRR22014511	Treated	Sim et al., 2253	Triazole	45	2
+SRR22014512	P4	SRR22014512	Treated	Sim et al., 2250	Triazole	45	2
+SRR22014513	P4	SRR22014513	Treated	Sim et al., 2235	Triazole	45	2
+SRR22014514	P4	SRR22014514	Treated	Sim et al., 2227	Triazole	45	2
+SRR22014515	P4	SRR22014515	Treated	Sim et al., 2224	Triazole	45	2
+SRR22014516	P4	SRR22014516	Treated	Sim et al., 2209	Triazole	45	2
+SRR22014517	P4	SRR22014517	Treated	Sim et al., 2201	Triazole	45	2
+SRR22014518	P4	SRR22014518	Treated	Sim et al., 2198	Triazole	45	2
+SRR22014519	P4	SRR22014519	Treated	Sim et al., 2183	Triazole	45	2
+SRR22014521	P4	SRR22014521	Treated	Sim et al., 2175	Triazole	45	2
+SRR22014522	P4	SRR22014522	Treated	Sim et al., 2172	Triazole	45	2
+SRR22014523	P4	SRR22014523	Treated	Sim et al., 2157	Triazole	45	2
+SRR22014524	P4	SRR22014524	Treated	Sim et al., 2149	Triazole	45	2
+SRR22014525	P4	SRR22014525	Treated	Sim et al., 2146	Triazole	45	2
+SRR22014526	P4	SRR22014526	Treated	Sim et al., 2131	Triazole	45	2
+SRR22014527	P4	SRR22014527	Treated	Sim et al., 2123	Triazole	45	2
+SRR22014528	P4	SRR22014528	Treated	Sim et al., 2120	Triazole	45	2
+SRR22014529	P4	SRR22014529	Treated	Sim et al., 2105	Triazole	45	2
+SRR22014530	P4	SRR22014530	Control	Sim et al., 2093	Triazole	45	2
+SRR22014532	P4	SRR22014532	Control	Sim et al., 2090	Triazole	45	2
+SRR22014533	P4	SRR22014533	Control	Sim et al., 2075	Triazole	45	2
+SRR22014534	P4	SRR22014534	Control	Sim et al., 2069	Triazole	45	2
+SRR22014728	P4	SRR22014728	Control	Sim et al., 2066	Triazole	45	2
+SRR22014729	P4	SRR22014729	Control	Sim et al., 2051	Triazole	45	2
+SRR22014730	P4	SRR22014730	Control	Sim et al., 2045	Triazole	45	2
+SRR22014731	P4	SRR22014731	Control	Sim et al., 2042	Triazole	45	2
+SRR22014732	P4	SRR22014732	Control	Sim et al., 2027	Triazole	45	2
+SRR22014913	P4	SRR22014913	Treated	Sim et al., 2237	Triazole	45	2
+SRR22014914	P4	SRR22014914	Treated	Sim et al., 2232	Triazole	45	2
+SRR22014915	P4	SRR22014915	Treated	Sim et al., 2244	Triazole	45	2
+SRR22014916	P4	SRR22014916	Treated	Sim et al., 2211	Triazole	45	2
+SRR22014917	P4	SRR22014917	Treated	Sim et al., 2206	Triazole	45	2
+SRR22014918	P4	SRR22014918	Treated	Sim et al., 2218	Triazole	45	2
+SRR22014919	P4	SRR22014919	Treated	Sim et al., 2185	Triazole	45	2
+SRR22014921	P4	SRR22014921	Treated	Sim et al., 2180	Triazole	45	2
+SRR22014922	P4	SRR22014922	Treated	Sim et al., 2192	Triazole	45	2
+SRR22014923	P4	SRR22014923	Treated	Sim et al., 2159	Triazole	45	2
+SRR22014924	P4	SRR22014924	Treated	Sim et al., 2154	Triazole	45	2
+SRR22014925	P4	SRR22014925	Treated	Sim et al., 2167	Triazole	45	2
+SRR22014926	P4	SRR22014926	Treated	Sim et al., 2130	Triazole	45	2
+SRR22014928	P4	SRR22014928	Treated	Sim et al., 2141	Triazole	45	2
+SRR22014929	P4	SRR22014929	Treated	Sim et al., 2104	Triazole	45	2
+SRR22014930	P4	SRR22014930	Treated	Sim et al., 2113	Triazole	45	2
+SRR22014932	P4	SRR22014932	Treated	Sim et al., 2115	Triazole	45	2
+SRR22014933	P4	SRR22014933	Control	Sim et al., 2074	Triazole	45	2
+SRR22014934	P4	SRR22014934	Control	Sim et al., 2083	Triazole	45	2
+SRR22014935	P4	SRR22014935	Control	Sim et al., 2085	Triazole	45	2
+SRR22014936	P4	SRR22014936	Control	Sim et al., 2050	Triazole	45	2
+SRR22014945	P4	SRR22014945	Treated	Sim et al., 2254	Triazole	45	2
+SRR22014946	P4	SRR22014946	Treated	Sim et al., 2252	Triazole	45	2
+SRR22014947	P4	SRR22014947	Treated	Sim et al., 2239	Triazole	45	2
+SRR22014948	P4	SRR22014948	Treated	Sim et al., 2228	Triazole	45	2
+SRR22014949	P4	SRR22014949	Treated	Sim et al., 2226	Triazole	45	2
+SRR22014951	P4	SRR22014951	Treated	Sim et al., 2213	Triazole	45	2
+SRR22014952	P4	SRR22014952	Treated	Sim et al., 2202	Triazole	45	2
+SRR22014953	P4	SRR22014953	Treated	Sim et al., 2200	Triazole	45	2
+SRR22014954	P4	SRR22014954	Treated	Sim et al., 2187	Triazole	45	2
+SRR22014955	P4	SRR22014955	Treated	Sim et al., 2176	Triazole	45	2
+SRR22014956	P4	SRR22014956	Treated	Sim et al., 2174	Triazole	45	2
+SRR22014957	P4	SRR22014957	Treated	Sim et al., 2161	Triazole	45	2
+SRR22014958	P4	SRR22014958	Treated	Sim et al., 2150	Triazole	45	2
+SRR22014959	P4	SRR22014959	Treated	Sim et al., 2148	Triazole	45	2
+SRR22014960	P4	SRR22014960	Treated	Sim et al., 2135	Triazole	45	2
+SRR22014962	P4	SRR22014962	Treated	Sim et al., 2124	Triazole	45	2
+SRR22014963	P4	SRR22014963	Treated	Sim et al., 2122	Triazole	45	2
+SRR22014964	P4	SRR22014964	Treated	Sim et al., 2109	Triazole	45	2
+SRR22014965	P4	SRR22014965	Control	Sim et al., 2094	Triazole	45	2
+SRR22014966	P4	SRR22014966	Control	Sim et al., 2092	Triazole	45	2
+SRR22014967	P4	SRR22014967	Control	Sim et al., 2079	Triazole	45	2
+SRR22014968	P4	SRR22014968	Control	Sim et al., 2070	Triazole	45	2
+SRR22014969	P4	SRR22014969	Control	Sim et al., 2068	Triazole	45	2
+SRR22014970	P4	SRR22014970	Control	Sim et al., 2055	Triazole	45	2
+SRR22014971	P4	SRR22014971	Control	Sim et al., 2046	Triazole	45	2
+SRR22014973	P4	SRR22014973	Control	Sim et al., 2044	Triazole	45	2
+SRR22014974	P4	SRR22014974	Control	Sim et al., 2031	Triazole	45	2
+SRR22015245	P4	SRR22015245	Treated	Sim et al., 2127	Triazole	45	2
+SRR22015246	P4	SRR22015246	Treated	Sim et al., 2119	Triazole	45	2
+SRR22015247	P4	SRR22015247	Treated	Sim et al., 2106	Triazole	45	2
+SRR22015248	P4	SRR22015248	Treated	Sim et al., 2101	Triazole	45	2
+SRR22015249	P4	SRR22015249	Control	Sim et al., 2089	Triazole	45	2
+SRR22015261	P4	SRR22015261	Treated	Sim et al., 2233	Triazole	45	2
+SRR22015262	P4	SRR22015262	Treated	Sim et al., 2248	Triazole	45	2
+SRR22015263	P4	SRR22015263	Treated	Sim et al., 2241	Triazole	45	2
+SRR22015264	P4	SRR22015264	Treated	Sim et al., 2207	Triazole	45	2
+SRR22015265	P4	SRR22015265	Treated	Sim et al., 2222	Triazole	45	2
+SRR22015266	P4	SRR22015266	Treated	Sim et al., 2215	Triazole	45	2
+SRR22015267	P4	SRR22015267	Treated	Sim et al., 2181	Triazole	45	2
+SRR22015269	P4	SRR22015269	Treated	Sim et al., 2196	Triazole	45	2
+SRR22015270	P4	SRR22015270	Treated	Sim et al., 2189	Triazole	45	2
+SRR22015271	P4	SRR22015271	Treated	Sim et al., 2155	Triazole	45	2
+SRR22015272	P4	SRR22015272	Treated	Sim et al., 2170	Triazole	45	2
+SRR22015273	P4	SRR22015273	Treated	Sim et al., 2163	Triazole	45	2
+SRR22015417	P4	SRR22015417	Treated	Sim et al., 2166	Triazole	45	2
+SRR22015418	P4	SRR22015418	Treated	Sim et al., 2133	Triazole	45	2
+SRR22015419	P4	SRR22015419	Control	Sim et al., 2097	Triazole	45	2
+SRR22015420	P4	SRR22015420	Control	Sim et al., 2095	Triazole	45	2
+SRR22015425	P4	SRR22015425	Treated	Sim et al., 2256	Triazole	45	2
+SRR22015426	P4	SRR22015426	Treated	Sim et al., 2230	Triazole	45	2
+SRR22015427	P4	SRR22015427	Treated	Sim et al., 2204	Triazole	45	2
+SRR22015428	P4	SRR22015428	Treated	Sim et al., 2178	Triazole	45	2
+SRR22015429	P4	SRR22015429	Treated	Sim et al., 2152	Triazole	45	2
+SRR22015430	P4	SRR22015430	Treated	Sim et al., 2126	Triazole	45	2
+SRR22015431	P4	SRR22015431	Control	Sim et al., 2100	Triazole	45	2
+SRR22015433	P4	SRR22015433	Control	Sim et al., 2098	Triazole	45	2
+SRR22015434	P4	SRR22015434	Control	Sim et al., 2096	Triazole	45	2
+SRR22015602	P4	SRR22015602	Control	Sim et al., 2071	Triazole	45	2
+SRR22015603	P4	SRR22015603	Control	Sim et al., 2065	Triazole	45	2
+SRR22015604	P4	SRR22015604	Control	Sim et al., 2052	Triazole	45	2
+SRR22015605	P4	SRR22015605	Control	Sim et al., 2047	Triazole	45	2
+SRR22015606	P4	SRR22015606	Control	Sim et al., 2041	Triazole	45	2
+SRR22015607	P4	SRR22015607	Control	Sim et al., 2028	Triazole	45	2
+SRR22015608	P4	SRR22015608	Control	Sim et al., 2023	Triazole	45	2
+SRR22015619	P4	SRR22015619	Treated	Sim et al., 2238	Triazole	45	2
+SRR22015620	P4	SRR22015620	Treated	Sim et al., 2242	Triazole	45	2
+SRR22015621	P4	SRR22015621	Treated	Sim et al., 2246	Triazole	45	2
+SRR22015623	P4	SRR22015623	Treated	Sim et al., 2212	Triazole	45	2
+SRR22015624	P4	SRR22015624	Treated	Sim et al., 2216	Triazole	45	2
+SRR22015625	P4	SRR22015625	Treated	Sim et al., 2144	Triazole	45	2
+SRR22015626	P4	SRR22015626	Treated	Sim et al., 2137	Triazole	45	2
+SRR22015698	P4	SRR22015698	Treated	Sim et al., 2234	Triazole	45	2
+SRR22015699	P4	SRR22015699	Treated	Sim et al., 2243	Triazole	45	2
+SRR22015700	P4	SRR22015700	Treated	Sim et al., 2245	Triazole	45	2
+SRR22015702	P4	SRR22015702	Treated	Sim et al., 2208	Triazole	45	2
+SRR22015703	P4	SRR22015703	Treated	Sim et al., 2217	Triazole	45	2
+SRR22015704	P4	SRR22015704	Treated	Sim et al., 2219	Triazole	45	2
+SRR22015705	P4	SRR22015705	Treated	Sim et al., 2182	Triazole	45	2
+SRR22015706	P4	SRR22015706	Treated	Sim et al., 2191	Triazole	45	2
+SRR22015707	P4	SRR22015707	Treated	Sim et al., 2193	Triazole	45	2
+SRR22015708	P4	SRR22015708	Treated	Sim et al., 2156	Triazole	45	2
+SRR22015709	P4	SRR22015709	Treated	Sim et al., 2165	Triazole	45	2
+SRR22015714	P4	SRR22015714	Treated	Sim et al., 2255	Triazole	45	2
+SRR22015715	P4	SRR22015715	Treated	Sim et al., 2229	Triazole	45	2
+SRR22015716	P4	SRR22015716	Treated	Sim et al., 2203	Triazole	45	2
+SRR22015717	P4	SRR22015717	Treated	Sim et al., 2177	Triazole	45	2
+SRR22015718	P4	SRR22015718	Treated	Sim et al., 2151	Triazole	45	2
+SRR22015719	P4	SRR22015719	Treated	Sim et al., 2125	Triazole	45	2
+SRR22015720	P4	SRR22015720	Control	Sim et al., 2099	Triazole	45	2
+SRR22015724	P4	SRR22015724	Treated	Sim et al., 2249	Triazole	45	2
+SRR22015725	P4	SRR22015725	Treated	Sim et al., 2236	Triazole	45	2
+SRR22015726	P4	SRR22015726	Treated	Sim et al., 2231	Triazole	45	2
+SRR22015727	P4	SRR22015727	Treated	Sim et al., 2223	Triazole	45	2
+SRR22015728	P4	SRR22015728	Treated	Sim et al., 2210	Triazole	45	2
+SRR22015729	P4	SRR22015729	Treated	Sim et al., 2205	Triazole	45	2
+SRR22015730	P4	SRR22015730	Treated	Sim et al., 2197	Triazole	45	2
+SRR22015731	P4	SRR22015731	Treated	Sim et al., 2184	Triazole	45	2
+SRR22015732	P4	SRR22015732	Treated	Sim et al., 2179	Triazole	45	2
+SRR22015734	P4	SRR22015734	Treated	Sim et al., 2171	Triazole	45	2
+SRR22015735	P4	SRR22015735	Treated	Sim et al., 2158	Triazole	45	2
+SRR22015736	P4	SRR22015736	Treated	Sim et al., 2153	Triazole	45	2
+SRR22015737	P4	SRR22015737	Treated	Sim et al., 2145	Triazole	45	2
+SRR22015738	P4	SRR22015738	Treated	Sim et al., 2132	Triazole	45	2
+SRR22015850	P4	SRR22015850	Treated	Sim et al., 2128	Triazole	45	2
+SRR22015851	P4	SRR22015851	Treated	Sim et al., 2140	Triazole	45	2
+SRR22015852	P4	SRR22015852	Treated	Sim et al., 2107	Triazole	45	2
+SRR22015853	P4	SRR22015853	Treated	Sim et al., 2102	Triazole	45	2
+SRR22015854	P4	SRR22015854	Treated	Sim et al., 2114	Triazole	45	2
+SRR22015855	P4	SRR22015855	Control	Sim et al., 2077	Triazole	45	2
+SRR22015857	P4	SRR22015857	Control	Sim et al., 2072	Triazole	45	2
+SRR22015858	P4	SRR22015858	Control	Sim et al., 2084	Triazole	45	2
+SRR22015859	P4	SRR22015859	Control	Sim et al., 2053	Triazole	45	2
+SRR22015860	P4	SRR22015860	Control	Sim et al., 2048	Triazole	45	2
+SRR22015861	P4	SRR22015861	Control	Sim et al., 2060	Triazole	45	2
+SRR22015863	P4	SRR22015863	Control	Sim et al., 2024	Triazole	45	2
+SRR22015864	P4	SRR22015864	Control	Sim et al., 2036	Triazole	45	2
+SRR22015874	P4	SRR22015874	Treated	Sim et al., 2220	Triazole	45	2
+SRR22015875	P4	SRR22015875	Treated	Sim et al., 2186	Triazole	45	2
+SRR22015876	P4	SRR22015876	Treated	Sim et al., 2190	Triazole	45	2
+SRR22015877	P4	SRR22015877	Treated	Sim et al., 2194	Triazole	45	2
+SRR22015878	P4	SRR22015878	Treated	Sim et al., 2160	Triazole	45	2
+SRR22015879	P4	SRR22015879	Treated	Sim et al., 2164	Triazole	45	2
+SRR22015880	P4	SRR22015880	Treated	Sim et al., 2168	Triazole	45	2
+SRR22015881	P4	SRR22015881	Treated	Sim et al., 2134	Triazole	45	2
+SRR22015883	P4	SRR22015883	Treated	Sim et al., 2138	Triazole	45	2
+SRR22015884	P4	SRR22015884	Treated	Sim et al., 2142	Triazole	45	2
+SRR22015885	P4	SRR22015885	Treated	Sim et al., 2108	Triazole	45	2
+SRR22015886	P4	SRR22015886	Treated	Sim et al., 2112	Triazole	45	2
+SRR22015887	P4	SRR22015887	Treated	Sim et al., 2116	Triazole	45	2
+SRR22015888	P4	SRR22015888	Control	Sim et al., 2078	Triazole	45	2
+SRR22015889	P4	SRR22015889	Control	Sim et al., 2082	Triazole	45	2
+SRR22015890	P4	SRR22015890	Control	Sim et al., 2086	Triazole	45	2
+SRR22015891	P4	SRR22015891	Control	Sim et al., 2054	Triazole	45	2
+SRR22015892	P4	SRR22015892	Control	Sim et al., 2058	Triazole	45	2
+SRR22015894	P4	SRR22015894	Control	Sim et al., 2062	Triazole	45	2
+SRR22015895	P4	SRR22015895	Control	Sim et al., 2030	Triazole	45	2
+SRR22015896	P4	SRR22015896	Control	Sim et al., 2034	Triazole	45	2
+SRR22015897	P4	SRR22015897	Control	Sim et al., 2038	Triazole	45	2
+CRR190744	P5	CRR190744	Control	Chuang et al., 2021	Benzimidazole	14	2
+CRR190745	P5	CRR190745	Control	Chuang et al., 2022	Benzimidazole	14	2
+CRR190746	P5	CRR190746	Control	Chuang et al., 2023	Benzimidazole	14	2
+CRR190747	P5	CRR190747	Control	Chuang et al., 2024	Benzimidazole	14	2
+CRR190748	P5	CRR190748	Control	Chuang et al., 2025	Benzimidazole	14	2
+CRR190749	P5	CRR190749	Control	Chuang et al., 2026	Benzimidazole	14	2
+CRR190750	P5	CRR190750	Control	Chuang et al., 2027	Benzimidazole	14	2
+CRR190751	P5	CRR190751	Control	Chuang et al., 2028	Benzimidazole	14	2
+CRR190752	P5	CRR190752	Control	Chuang et al., 2029	Benzimidazole	14	2
+CRR190753	P5	CRR190753	Treated	Chuang et al., 2030	Benzimidazole	14	2
+CRR190754	P5	CRR190754	Treated	Chuang et al., 2031	Benzimidazole	14	2
+CRR190755	P5	CRR190755	Treated	Chuang et al., 2032	Benzimidazole	14	2
+CRR190756	P5	CRR190756	Treated	Chuang et al., 2033	Benzimidazole	14	2
+CRR190757	P5	CRR190757	Treated	Chuang et al., 2034	Benzimidazole	14	2
+CRR190758	P5	CRR190758	Treated	Chuang et al., 2035	Benzimidazole	14	2
+CRR190759	P5	CRR190759	Treated	Chuang et al., 2036	Benzimidazole	14	2
+CRR190760	P5	CRR190760	Treated	Chuang et al., 2037	Benzimidazole	14	2
+CRR190761	P5	CRR190761	Treated	Chuang et al., 2038	Benzimidazole	14	2
+CRR190762	P5	CRR190762	Treated	Chuang et al., 2039	Benzimidazole	14	2
+CRR190763	P5	CRR190763	Treated	Chuang et al., 2040	Benzimidazole	14	2
+CRR190764	P5	CRR190764	Treated	Chuang et al., 2041	Benzimidazole	14	2
+CRR190765	P5	CRR190765	Control	Chuang et al., 2042	Benzimidazole	14	2
+CRR190766	P5	CRR190766	Control	Chuang et al., 2043	Benzimidazole	14	2
+CRR190767	P5	CRR190767	Control	Chuang et al., 2044	Benzimidazole	14	2
+CRR190768	P5	CRR190768	Control	Chuang et al., 2045	Benzimidazole	14	2
+CRR190769	P5	CRR190769	Control	Chuang et al., 2046	Benzimidazole	14	2
+CRR190770	P5	CRR190770	Control	Chuang et al., 2047	Benzimidazole	14	2
+CRR190771	P5	CRR190771	Control	Chuang et al., 2048	Benzimidazole	14	2
+CRR190772	P5	CRR190772	Control	Chuang et al., 2049	Benzimidazole	14	2
+CRR190773	P5	CRR190773	Control	Chuang et al., 2050	Benzimidazole	14	2
+CRR190774	P5	CRR190774	Treated	Chuang et al., 2051	Benzimidazole	14	2
+CRR190776	P5	CRR190776	Treated	Chuang et al., 2053	Benzimidazole	14	2
+CRR190777	P5	CRR190777	Treated	Chuang et al., 2054	Benzimidazole	14	2
+CRR190778	P5	CRR190778	Treated	Chuang et al., 2055	Benzimidazole	14	2
+CRR190779	P5	CRR190779	Treated	Chuang et al., 2056	Benzimidazole	14	2
+CRR190780	P5	CRR190780	Treated	Chuang et al., 2057	Benzimidazole	14	2
+CRR190781	P5	CRR190781	Treated	Chuang et al., 2058	Benzimidazole	14	2
+CRR190782	P5	CRR190782	Treated	Chuang et al., 2059	Benzimidazole	14	2
+CRR190783	P5	CRR190783	Treated	Chuang et al., 2060	Benzimidazole	14	2
+CRR190784	P5	CRR190784	Treated	Chuang et al., 2061	Benzimidazole	14	2
+CRR190785	P5	CRR190785	Treated	Chuang et al., 2062	Benzimidazole	14	2
